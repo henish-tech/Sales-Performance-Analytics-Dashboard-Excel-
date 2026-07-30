@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📊 Retail Business Sales Analysis using Excel
 📌 Project Overview
 
@@ -71,3 +72,7 @@ Business Analytics
 📌 Project Type
 
 Academic / Portfolio Project
+=======
+# Sales-Performance-Analytics-Dashboard-Excel-
+Interactive Excel dashboard for analyzing retail sales performance, profitability, and business insights using advanced Excel techniques.
+>>>>>>> 308992314ea8965b78de0c8d4247a0a80cf7c4d9
