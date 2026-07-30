@@ -1,78 +1,113 @@
-<<<<<<< HEAD
-📊 Retail Business Sales Analysis using Excel
-📌 Project Overview
+# 📊 Sales Performance Analytics Dashboard
 
-This project analyzes a large retail business sales dataset using advanced Microsoft Excel techniques.
-The goal is to uncover sales trends, top-performing customers and products, and provide actionable business insights.
+## 📌 Project Overview
+The **Sales Performance Analytics Dashboard** is an Excel-based business analytics project designed to transform raw retail sales data into meaningful insights. Using advanced Excel features, the project evaluates sales performance, customer behavior, product profitability, and regional trends through an interactive dashboard.
 
-📂 Dataset
+---
 
-Retail business sales data
+## 🎯 Objectives
+- Monitor overall sales and profit performance.
+- Identify high-performing products and customers.
+- Compare regional and category-wise sales.
+- Analyze monthly and yearly sales trends.
+- Support data-driven business decisions.
 
-Contains customer details, product categories, sales, profit, and order information
+---
 
-🧹 Data Cleaning
+## 📂 Dataset
+The dataset includes retail transaction records with:
+- Order ID
+- Order Date
+- Customer Name
+- Product Name
+- Product Category
+- Region
+- Sales
+- Quantity
+- Profit
 
-Removed blank and duplicate records
+---
 
-Standardized columns and formats
+## 🧹 Data Preparation
+- Removed duplicate records.
+- Filled or removed missing values.
+- Corrected inconsistent data formats.
+- Standardized column names.
+- Validated data for accurate analysis.
 
-Handled missing values
+---
 
-Prepared clean data for analysis
+## 📈 Business Analysis
+- Sales & Profit Analysis
+- Customer Performance Analysis
+- Product Performance Analysis
+- Category-wise Sales Analysis
+- Region-wise Revenue Analysis
+- Monthly Sales Trend Analysis
 
-📈 Analysis Performed
+---
 
-Pivot table analysis for sales and profit
+## 📊 Dashboard Features
+- Interactive Excel Dashboard
+- KPI Cards
+- Pivot Tables
+- Pivot Charts
+- Dynamic Slicers
+- Sales Trend Visualization
+- Region & Category Filters
 
-Top customers and top products analysis
+---
 
-Category-wise and region-wise performance
+## 📐 Excel Techniques Used
+- Pivot Tables
+- Pivot Charts
+- Conditional Formatting
+- Slicers
+- IF Functions
+- XLOOKUP / VLOOKUP
+- Regression Analysis
+- What-If Analysis
+- Data Validation
 
-Time-based sales trend analysis
+---
 
-📊 Dashboard
+## 🔑 Key Insights
+- Identified the highest revenue-generating products.
+- Determined the most profitable customer segments.
+- Compared sales performance across regions.
+- Tracked monthly revenue growth and profit trends.
+- Highlighted business opportunities using data visualization.
 
-Interactive Excel dashboard
+---
 
-Sales, profit, and customer insights
+## 🛠 Tools & Technologies
+- Microsoft Excel
+- Data Cleaning
+- Data Visualization
+- Business Analytics
+- Dashboard Development
+- Pivot Tables & Charts
 
-Filters for category and region
+---
 
-📐 Advanced Excel Techniques
+## 🚀 Project Outcome
+Developed a professional and interactive sales dashboard that enables users to monitor business performance, identify growth opportunities, and make informed decisions using Excel analytics.
 
-Regression analysis
+---
 
-What-if scenario analysis
+## 💼 Skills Demonstrated
+- Data Analysis
+- Business Intelligence
+- Dashboard Design
+- Data Cleaning
+- KPI Reporting
+- Excel Automation
+- Analytical Thinking
 
-Data grouping and summarization
+---
 
-🔑 Key Business Insights
 
-Identified top revenue-generating customers
+## 👨‍💻 Author
+**Henish Bhayani**
 
-Found best-selling and high-profit products
-
-Analyzed sales trends and performance patterns
-
-Provided insights to support business decision-making
-
-🛠 Tools & Skills Used
-
-Microsoft Excel
-
-Pivot Tables
-
-Dashboards
-
-Regression Analysis
-
-Business Analytics
-
-📌 Project Type
-
-Academic / Portfolio Project
-=======
-# Sales-Performance-Analytics-Dashboard-Excel-
-Interactive Excel dashboard for analyzing retail sales performance, profitability, and business insights using advanced Excel techniques.
->>>>>>> 308992314ea8965b78de0c8d4247a0a80cf7c4d9
+Aspiring Data Analyst | Excel | SQL | Power BI | Python
