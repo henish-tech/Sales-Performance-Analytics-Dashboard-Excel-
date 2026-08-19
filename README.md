@@ -110,5 +110,5 @@ Developed a professional and interactive sales dashboard that enables users to m
 ## 👨‍💻 Author
 **Henish Bhayani**
 Github : https://github.com/henish-tech/Sales-Performance-Analytics-Dashboard-Excel-/blob/main/final%20project.xlsx
-
+Screenshot : ![excel DashBoard](Screenshot 2026-08-10 131854.png)
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
