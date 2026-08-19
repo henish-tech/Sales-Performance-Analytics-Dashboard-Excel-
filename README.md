@@ -105,10 +105,16 @@ Developed a professional and interactive sales dashboard that enables users to m
 - Analytical Thinking
 
 ---
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/henish-tech/Sales-Performance-Analytics-Dashboard-Excel-/main/Screenshot%202026-08-10%20131854.png" width="900">
+</p>
 
 
 ## 👨‍💻 Author
 **Henish Bhayani**
 Github : https://github.com/henish-tech/Sales-Performance-Analytics-Dashboard-Excel-/blob/main/final%20project.xlsx
-Screenshot : ![Screenshots/excel DashBoard](Screenshot 2026-08-10 131854.png)
+Screenshot :[ ![Screenshots/excel DashBoard](Screenshot 2026-08-10 131854.png)](https://raw.githubusercontent.com/henish-tech/Sales-Performance-Analytics-Dashboard-Excel-/main/Screenshot%202026-08-10%20131854.png)
+
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
